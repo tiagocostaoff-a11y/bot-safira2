@@ -1,0 +1,23 @@
+{
+  "nomeServidor": "Safira SMP",
+  "cor": "#8A2BE2",
+
+  "imagem": "./assets/boasvindas.png",
+
+  "canais": {
+    "entrada": "1519043688523632853",
+    "chat": "1519043721205780662",
+    "regras": "1505659815295451283",
+    "anuncios": "1519043692600627291"
+  },
+
+  "mensagem": {
+    "titulo": "👋 Bem-vindo(a) ao Safira SMP!",
+    "texto": "Olá {user}, seja muito bem-vindo(a) ao **{server}**!\n\nEsperamos que você aproveite sua estadia e faça muitos amigos.\n\nLeia as regras antes de começar sua aventura!"
+  },
+
+  "boost": {
+    "canal": "1519043728759848990",
+    "cargo": "1510394075860435157"
+  }
+}
